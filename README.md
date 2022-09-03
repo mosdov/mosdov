@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mosdov
+- 👀 I’m interested to learn javascript, python and kotlin
+- 🌱 I’m currently learning html, css
+- 📫 allefhonor@gmail.com
